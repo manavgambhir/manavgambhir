@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manavgambhir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects relating to C++
+- 💞️ I’m looking to collaborate on projects relating to C/C++
 - 📫Reach me at manavgambhir11@gmail.com
 
 <!---
