@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing Data Structures and Algorithms in C++
 - 🌱 I,m also a novice in Android Development.
 - 💞️ I’m looking to collaborate on projects relating to C/C++ or Android Dev
-- 📫Reach me at manavgambhir11@gmail.com
+- 📫Reach me at reachouttomanav@gmail.com
 
 <!---
 manavgambhir/manavgambhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
