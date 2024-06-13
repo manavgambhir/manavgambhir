@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manav Gambhir</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning about **Kotlin Multiplatform**
 
 - 👯 I’m looking to collaborate on **Mobile App Development Projects**
 
-- 💬 Ask me about **Kotlin, Java, Android Development,and any general software development questions**
+- 💬 Ask me about **Android Development, Kotlin, Java, or any other general software development questions**
 
-- 📫 How to reach me **reachouttomanav@gmail.com**
+- 📫 Reach out to me at **reachouttomanav@gmail.com**
 
 - ⚡ Fun fact **I love to interact with new people**
 
